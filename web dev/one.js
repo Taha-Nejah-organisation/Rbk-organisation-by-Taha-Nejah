@@ -27,7 +27,7 @@ window.sayHello.call(alice)
 /*3*/
 20
 /*4*/
-"Hi I am window"
+"Hi I am win dow"
 /*5*/
 20
 /*6*/
